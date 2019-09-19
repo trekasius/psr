@@ -44,6 +44,8 @@ Daugiau informacijos <a href="https://www.r-project.org/" target =
   <li>Chambers J.M. <i>Software for Data Analysis. Programming with R</i></li>
   <li>Matloff N. <i>The Art of R Programming. A Tour of Statistical Software Design</i></li>
   <li>Wickham H. <i><a href = "http://adv-r.had.co.nz/" target = "_blank">Advanced R</a></i></li>
+  <li>Gillespie C. <i><a href = "https://csgillespie.github.io/efficientR/" target = "_blank">Efficient R programming</a></i></li>
+            
 </ul>
 
 <h3>Konspektai</h3>
